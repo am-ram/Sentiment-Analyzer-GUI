@@ -5,6 +5,6 @@ The main aim of this is to successfully analyse the sentences that are being giv
 • Helps in knowing and understanding the customers.<br>
 • Helps in measuring the marketing campaign.<br>
 • Boosts customer service.<br>
-• Provides a data-based strategy that targets interested individuals.</p><br>
-# Screenshots 
+• Provides a data-based strategy that targets interested individuals.<br></p>
+# Screenshots <br>
 ![image](https://user-images.githubusercontent.com/75354390/129184609-f144322c-5b11-4dec-9e83-2e1fff487fb2.png)
